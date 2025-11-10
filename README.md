@@ -1,2 +1,2 @@
-# ArtoWeb
+# Arto
 web browser
